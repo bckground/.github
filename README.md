@@ -1,11 +1,9 @@
 <div class="title-block" style="text-align: center;" align="center">
 <p>
-  <a href="https://bckground.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bckground/.github/blob/main/logos/bckground_horizontal_with_white_text.png?raw=true" width="400">
-      <img src="https://github.com/bckground/.github/blob/main/logos/bckground_horizontal.png?raw=true" alt="tourbillon logo" width="400">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bckground/.github/blob/main/logos/bckground_horizontal_with_white_text.png?raw=true" width="400">
+    <img src="https://github.com/bckground/.github/blob/main/logos/bckground_horizontal.png?raw=true" alt="tourbillon logo" width="400">
+  </picture>
 </p>
 </div>
 
