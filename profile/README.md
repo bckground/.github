@@ -1,6 +1,4 @@
-# Hello there, welcome 👋
-
-**bckground labs** are the the creators of [Tourbillon](https://github.com/bckground/tourbillon), the next-gen durable execution platform that fuels globa, scalable, reliable distributed systems.
+**bckground labs** is the team behind [Tourbillon](https://github.com/bckground/tourbillon), a next-generation durable execution platform for building global, scalable, and reliable distributed systems.
 
 ## :books: Resources
 
@@ -10,7 +8,6 @@
 
 ## :sparkling_heart: We love open source
 
-At bckground labs, we recognize the importance of community. We are committed to the values of the open source movement: transparency, openness, innovation, and freedom.
+At bckground labs, we believe community matters. We are committed to the values of open source: transparency, openness, innovation, and freedom.
 
-Please, join us! We want to build a strong community that enables participation at all stages of development.
-
+Join us as we build a strong community around Tourbillon, with opportunities to participate at every stage of development.
