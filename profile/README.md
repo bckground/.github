@@ -1,3 +1,5 @@
+# Hello there, welcome 👋
+
 **bckground labs** is the team behind [Tourbillon](https://github.com/bckground/tourbillon), a next-generation durable execution platform for building global, scalable, and reliable distributed systems.
 
 ## :books: Resources
